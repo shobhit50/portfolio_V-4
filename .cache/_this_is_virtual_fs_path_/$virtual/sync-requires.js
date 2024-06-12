@@ -4,13 +4,13 @@ const preferDefault = m => (m && m.default) || m
 
 
 exports.components = {
-  "component---cache-dev-404-page-js": preferDefault(require("C:\\Users\\ankit\\OneDrive\\Desktop\\v4-main\\.cache\\dev-404-page.js")),
-  "component---src-pages-404-js": preferDefault(require("C:\\Users\\ankit\\OneDrive\\Desktop\\v4-main\\src\\pages\\404.js")),
-  "component---src-pages-archive-js": preferDefault(require("C:\\Users\\ankit\\OneDrive\\Desktop\\v4-main\\src\\pages\\archive.js")),
-  "component---src-pages-index-js": preferDefault(require("C:\\Users\\ankit\\OneDrive\\Desktop\\v4-main\\src\\pages\\index.js")),
-  "component---src-pages-pensieve-index-js": preferDefault(require("C:\\Users\\ankit\\OneDrive\\Desktop\\v4-main\\src\\pages\\pensieve\\index.js")),
-  "component---src-pages-pensieve-tags-js": preferDefault(require("C:\\Users\\ankit\\OneDrive\\Desktop\\v4-main\\src\\pages\\pensieve\\tags.js")),
-  "component---src-templates-post-js": preferDefault(require("C:\\Users\\ankit\\OneDrive\\Desktop\\v4-main\\src\\templates\\post.js")),
-  "component---src-templates-tag-js": preferDefault(require("C:\\Users\\ankit\\OneDrive\\Desktop\\v4-main\\src\\templates\\tag.js"))
+  "component---cache-dev-404-page-js": preferDefault(require("C:\\Users\\ankit\\OneDrive\\Desktop\\portfolio_V-4\\.cache\\dev-404-page.js")),
+  "component---src-pages-404-js": preferDefault(require("C:\\Users\\ankit\\OneDrive\\Desktop\\portfolio_V-4\\src\\pages\\404.js")),
+  "component---src-pages-archive-js": preferDefault(require("C:\\Users\\ankit\\OneDrive\\Desktop\\portfolio_V-4\\src\\pages\\archive.js")),
+  "component---src-pages-index-js": preferDefault(require("C:\\Users\\ankit\\OneDrive\\Desktop\\portfolio_V-4\\src\\pages\\index.js")),
+  "component---src-pages-pensieve-index-js": preferDefault(require("C:\\Users\\ankit\\OneDrive\\Desktop\\portfolio_V-4\\src\\pages\\pensieve\\index.js")),
+  "component---src-pages-pensieve-tags-js": preferDefault(require("C:\\Users\\ankit\\OneDrive\\Desktop\\portfolio_V-4\\src\\pages\\pensieve\\tags.js")),
+  "component---src-templates-post-js": preferDefault(require("C:\\Users\\ankit\\OneDrive\\Desktop\\portfolio_V-4\\src\\templates\\post.js")),
+  "component---src-templates-tag-js": preferDefault(require("C:\\Users\\ankit\\OneDrive\\Desktop\\portfolio_V-4\\src\\templates\\tag.js"))
 }
 
